@@ -1,0 +1,16 @@
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\BowlingTests.deps.json
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\BowlingTests.runtimeconfig.json
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\BowlingTests.runtimeconfig.dev.json
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\BowlingTests.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\BowlingTests.pdb
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.csproj.CoreCompileInputs.cache
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.AssemblyInfoInputs.cache
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.AssemblyInfo.cs
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\obj\Debug\netcoreapp2.0\BowlingTests.pdb
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\Bowling.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\BowlingTests\bin\Debug\netcoreapp2.0\Bowling.pdb

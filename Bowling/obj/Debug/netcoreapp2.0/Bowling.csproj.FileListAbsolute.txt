@@ -1,0 +1,9 @@
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\bin\Debug\netcoreapp2.0\Bowling.deps.json
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\bin\Debug\netcoreapp2.0\Bowling.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\bin\Debug\netcoreapp2.0\Bowling.pdb
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.csproj.CoreCompileInputs.cache
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.AssemblyInfoInputs.cache
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.AssemblyInfo.cs
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.dll
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.pdb
+D:\Dropbox\IT\BowlingScoreCalculator3\Bowling\obj\Debug\netcoreapp2.0\Bowling.csprojResolveAssemblyReference.cache
